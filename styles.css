@@ -1,0 +1,55 @@
+@import url(http://fonts.googleapis.com/css?family=Dosis);
+@import url(http://fonts.googleapis.com/css?family=Amatic+SC:700);body {
+ background: #B6CED4;
+ font-family: Dosis;
+ font-size: 20px;
+}
+img {
+  text-align: center;
+  width: 250px;
+  height: 250px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+li {
+  float: left;
+}
+a {
+  text-align: center;
+  display: block;
+  width: 180px;
+  border-style: solid;
+  border-color: black;
+  font-family: 'Amatic SC'; cursive;
+  font-size: 40px;
+  padding: 10px;
+  margin: 10px;
+}
+header {
+  background-color: #E0715C;
+  color: black;
+  text-align: center;
+  font-family: Verdana;
+  padding: 20px;
+  margin: 20px;
+}
+header a {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+h1 {
+font-size: 40px;
+}
+h2 {
+color: blue;
+font-family: Verdana, serif;
+}
+section {
+  background: white;
+  padding: 20px 40px 40px 20px;
+  margin: 30px;
+}
